@@ -1,3 +1,4 @@
+// eslint-disable-next-line react/prop-types
 function Button({ title, id, rightIcon, leftIcon, containerClass }) {
   return (
     <button
